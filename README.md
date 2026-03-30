@@ -19,7 +19,7 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasqw12show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
