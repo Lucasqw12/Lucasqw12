@@ -43,5 +43,10 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 </div>
 
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/snake.svg" alt="Snake animation" />
+
+###
 
 
