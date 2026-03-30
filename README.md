@@ -15,6 +15,7 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 ---
 
 ## 📊 Estatísticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lucasqw12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
