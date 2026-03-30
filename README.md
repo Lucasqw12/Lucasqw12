@@ -1,31 +1,92 @@
-# Olá! Eu sou o Lucas M Medeiros 👋
+<h1 align="center">👨‍💻 Lucas M Medeiros</h1>
+
+<p align="center">
+Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
+</p>
+
+---
+
+## 🙋‍♂️ Sobre mim
+
+Olá! Eu sou o Lucas M Medeiros 👋  
 
 Sou um desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atualmente, estou expandindo meus conhecimentos em desenvolvimento web.
 
 ---
 
-### 🛠 Tecnologias que eu uso no meu dia
+## 📊 Estatísticas
 
-Aqui estão as ferramentas e linguagens que fazem parte do meu ecossistema de trabalho:
+<div align="center">
 
-| *Frontend* | *Linguagens & Backend* | *Ferramentas* |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📊 Estatísticas
+## 🧠 Linguagens e Tecnologias
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasqw12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasqw12&layout=compact&langs_count=7&theme=dark"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+---
+
+## 📂 Projetos em destaque
+
+<div style="display:flex; flex-direction:column; gap:15px;">
+
+<div style="background:#0d1117; padding:15px; border-radius:12px; border-left:5px solid #58a6ff;">
+<h3>🌐 Projeto Web</h3>
+<p>Interface moderna com HTML, CSS e JavaScript</p>
+<span style="background:#21262d; padding:5px 10px; border-radius:10px; font-size:12px;">
+📅 2026
+</span>
+</div>
+
+<div style="background:#0d1117; padding:15px; border-radius:12px; border-left:5px solid #f7df1e;">
+<h3>⚙️ Lógica JS</h3>
+<p>Projetos focados em lógica de programação</p>
+<span style="background:#21262d; padding:5px 10px; border-radius:10px; font-size:12px;">
+📅 2026
+</span>
+</div>
+
+<div style="background:#0d1117; padding:15px; border-radius:12px; border-left:5px solid #61dafb;">
+<h3>⚛️ React App</h3>
+<p>Componentes reutilizáveis e UI moderna</p>
+<span style="background:#21262d; padding:5px 10px; border-radius:10px; font-size:12px;">
+📅 2026
+</span>
+</div>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+💼 Em constante evolução na programação  
 </p>
-
----
-
-### 📫 Como me encontrar
-
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><
