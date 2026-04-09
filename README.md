@@ -14,22 +14,21 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 
 ---
 
-## 📊 Estatísticas
-[! GitHub stats](https://github-readme-stats.vercel.app/api?Lucasqw12=anuraghazra)](https://github.com/Lucasqw12/github-readme-stats)
 
+
+
+<!-- Streak-->
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasqw12show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+## 📊 Estatísticas
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasqw12&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🧠 Linguagens e Tecnologias
-
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
