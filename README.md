@@ -7,13 +7,11 @@ Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 </p>
 
 
-<td><a href="https://www.linkedin.com/in/thiago-jesus-data" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="35" alt="linkedin" /></a></td>
+<a href="https://www.linkedin.com/in/Lucas Moreira" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="35" alt="linkedin" /></a>
 
-<td><a href="mailto:thiago13jesusdias@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="35" alt="gmail" /></a></td>
+<td><a href="mailto:lucascrnmoreira@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="35" alt="gmail" /></a></td>
        
-<td><a href="https://www.instagram.com/jegro_data?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram" /></a></td>
-
-<td><a href="https://www.youtube.com/@Jegro777" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="35" alt="youtube" /></a></td>
+<a href="https://www.instagram.com/Lucasx.sx?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram" /></a>
 
 
 
