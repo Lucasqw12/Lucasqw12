@@ -1,6 +1,6 @@
 ![Header](github-header-banner.png)
 
-<h1 align="center">👨‍💻 Lucas M Medeiros</h1>
+<h1 align="center">👨‍💻 Lucas Moreira</h1>
 
 <p align="center">
 Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
