@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1 align="center">👨‍💻 Lucas M Medeiros</h1>
 
 <p align="center">
