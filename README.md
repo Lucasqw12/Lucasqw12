@@ -11,7 +11,7 @@ Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 
 <td><a href="mailto:lucascrnmoreira@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="35" alt="gmail" /></a></td>
        
-<a href="https://www.instagram.com/Lucasx.sx?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram" /></a>
+<a href="https://www.instagram.com/Lucaasx.sx?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram" /></a>
 
 
 
