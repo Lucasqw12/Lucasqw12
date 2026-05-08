@@ -1,4 +1,4 @@
-(./your-header-image-name.png)
+![Header](github-header-banner.png)
 
 <h1 align="center">👨‍💻 Lucas M Medeiros</h1>
 
