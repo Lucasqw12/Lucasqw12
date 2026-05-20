@@ -31,7 +31,7 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 <!-- Streak-->
 <div align="center">
   
-## 📊 Estatísticas
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasqw12&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
@@ -53,10 +53,11 @@ Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou
 </div>
 
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/github-contribution-grid-snake.svg">
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucasqw12/Lucasqw12/output/pacman-contribution-graph.svg">
 </picture>
 
 
