@@ -7,7 +7,7 @@ Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 </p>
 
 
-<div aling="center">
+<div align="center">
   
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](lucascrnmoreira@gmail.com)
   
