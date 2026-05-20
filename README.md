@@ -6,13 +6,12 @@
 Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 </p>
 
+<div aling="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
 
-<a href="https://www.linkedin.com/in/Lucas Moreira" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="35" alt="linkedin" /></a>
-
-<td><a href="mailto:lucascrnmoreira@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="35" alt="gmail" /></a></td>
-       
-<a href="https://www.instagram.com/Lucaasx.sx?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram" /></a>
-
+  </div>
 
 
 ---
