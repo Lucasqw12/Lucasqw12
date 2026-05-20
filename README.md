@@ -10,11 +10,7 @@ Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 <div align="center">
   
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](lucascrnmoreira@gmail.com)
-  
-  
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/lucaasx.sx/)
-
-  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-moreira-m/)
 
   </div>
