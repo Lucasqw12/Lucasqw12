@@ -15,7 +15,7 @@ Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 
 Olá! Eu sou o Lucas M Medeiros 👋  
 
-Tenho 19 anos, estou no 3º sementre de Analise Desenvolvimento de Sistemas. Sou um desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atualmente, estou expandindo meus conhecimentos em desenvolvimento web.
+Tenho 19 anos, estou no 4º sementre de Analise Desenvolvimento de Sistemas. Sou um desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atualmente, estou expandindo meus conhecimentos em desenvolvimento web.
 
 ---
 
